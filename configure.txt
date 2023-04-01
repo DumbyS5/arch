@@ -18,6 +18,14 @@ noto-fonts
 ttf-dejavu
 adobe-source-code-pro-fonts
 powerline-fonts
-pavucontrol
 wget
 curl
+htop
+vlc
+neofetch
+inkscape
+gimp
+p7zip
+wireguard
+pipewire
+man-db
