@@ -6,3 +6,4 @@ nano
 grub
 git
 networkmanager
+intel-ucode
