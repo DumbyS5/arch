@@ -1,1 +1,9 @@
+base
+linux
+linux-firmware
+sudo
+nano
+grub
+git
+networkmanager
 amd-ucode
