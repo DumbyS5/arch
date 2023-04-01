@@ -28,3 +28,4 @@ p7zip
 pipewire
 firefox
 man-db
+konsole
