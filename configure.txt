@@ -28,4 +28,5 @@ gimp
 p7zip
 wireguard
 pipewire
+firefox
 man-db
